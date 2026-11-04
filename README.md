@@ -17,6 +17,10 @@ File Structure
 ├── script.js           # Main JavaScript logic using jQuery
 ├── screenshots/        # Execution screenshots for tasks
 └── README.md           # Assignment documentation report
+<img width="1869" height="845" alt="image" src="https://github.com/user-attachments/assets/062010cf-8611-46eb-9637-dc669997a555" />
+<img width="1700" height="290" alt="image" src="https://github.com/user-attachments/assets/4992ea19-9374-45ef-9ccb-2c0d7c8d30f8" />
+<img width="839" height="741" alt="image" src="https://github.com/user-attachments/assets/508927ff-975b-4664-b32d-2974aa57dc67" />
+<img width="839" height="750" alt="image" src="https://github.com/user-attachments/assets/2ee16fda-8003-4ccf-ab27-ef0398844fd0" />
 
 
 Detailed Task Breakdown
