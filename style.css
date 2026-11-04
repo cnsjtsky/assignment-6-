@@ -1,0 +1,18 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f8f9fa;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.slide-panel {
+  display: none; /* Скрыто по умолчанию для слайд-эффектов */
+}
+
+.slide-heading {
+  cursor: pointer;
+  user-select: none;
+}
+
+.slide-heading:hover {
+  text-decoration: underline;
+}
